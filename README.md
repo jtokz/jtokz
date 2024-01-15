@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JordanT11
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning C#, want to learn Unity, C++ and Unreal
-- 💞️ I’m looking to collaborate in Open source projects
+- 👋 what's up
+- 👀 i love videogames
+- 🌱 currently learning C#, want to learn Unity, C++ and Unreal
+- 💞️ im looking to collaborate in Open source projects
 - 📫 ig jtokz.exe
-- ⚡ Fun fact: i like cats
+- ⚡ i like cats
