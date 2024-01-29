@@ -1,6 +1,7 @@
 - 👋 what's up
-- 👀 i love videogames
+- 💻 i love videogames
 - 🌱 currently learning C#, want to learn Unity, C++ and Unreal
+- 👀 Also interested in backend
 - 💞️ im looking to collaborate in Open source projects
 - 📫 ig jtokz.exe
 - ⚡ i like cats
