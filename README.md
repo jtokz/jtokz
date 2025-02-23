@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 I'm a passionate **Programming** student specializing in **C#**, on a journey to build my career as a **Game Developer** and **Backend Developer**
 
-- 🎮 **I love** playing and creating video games, and I'm currently learning **Unreal Engine**
+- 🎮 **I love** playing and creating video games, and I'm currently learning **Unity**
 - 🐱 **Cat lover**, always finding the best ways to integrate them into both code and life
 - 📚 **Notes and Projects** This profile is filled with my notes, exercises, and projects that could be useful for other students and developers on their learning path
 
@@ -25,7 +25,7 @@ I'm a passionate **Programming** student specializing in **C#**, on a journey to
   - C# Programming 💻
 
 ### 🌱 Currently Learning
-- Deepening my knowledge in **Unreal Engine** for game design and development
+- Deepening my knowledge in **Unity** for game design and development
 - Continuously improving in **C#** and exploring **ASP.NET** for backend development
 
 ### 📂 Featured Projects
