@@ -14,7 +14,7 @@ I'm a passionate **Programming** student specializing in **C#**, on a journey to
 - **Languages and Technologies**:
   - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   - ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=.net&logoColor=white)
-  - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+  - ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   - ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
